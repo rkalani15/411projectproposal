@@ -42,7 +42,7 @@ Share Location:
 
 Project Schedule 
 
-For checkpoint 1, I want some sort of UI up and running. The first UI for this project is going to be a login screen. I will use Spring Security to complete this.  
+For checkpoint 1, I want some sort of UI up and running. The first UI for this project is going to be a login screen. I will use Spring MCV and hibernate to complete this.  
 For the second checkpoint, I want the basic layout of the main menu page set up so users can navigate throughout the entire application. 
 For the third check point, I want the database configured. By now users will be able to view other items and upload items themselves. 
 For the final submission, I am going to make sure the whole project is efficient; I will then style it to make the interface look cleaner.  

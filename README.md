@@ -5,7 +5,7 @@ I plan on developing an e-commerce business for my final project. The only diffe
 
 Project Design
 
-One of the technologies I plan on incorporating is Spring MVC. I will use Netbeans in order to create the application. I will use Apache Tomcat Server. I also plan on using spring data to integrate Spring Security for the login page. I will use Angular JS to utilize rest protocols. I will use bootstrap and maven. Finally, H2 for the database.
+One of the technologies I plan on incorporating is Spring MVC. I will use Netbeans in order to create the application. I will use Apache Tomcat Server. I also plan on using spring data to integrate Spring Security for the login page. I will use Angular JS to utilize rest protocols. I will use bootstrap and maven. Finally, MYSQL for the database.
 The use cases for my project are registration upload item, upload image, search item, filter item, search item, claim item, verify pick up, and share location. The following are inputs for each module: 
 
 Registration:
